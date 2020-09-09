@@ -1,4 +1,4 @@
-package spring.micro.brewery.web.model;
+package spring.micro.breweryclient.web.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

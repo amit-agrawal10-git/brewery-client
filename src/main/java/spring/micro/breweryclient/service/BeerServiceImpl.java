@@ -1,7 +1,7 @@
-package spring.micro.brewery.service;
+package spring.micro.breweryclient.service;
 
 import org.springframework.stereotype.Service;
-import spring.micro.brewery.web.model.BeerDto;
+import spring.micro.breweryclient.web.model.BeerDto;
 
 import java.util.UUID;
 

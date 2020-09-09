@@ -1,13 +1,13 @@
-package spring.micro.brewery;
+package spring.micro.breweryclient;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class BreweryApplication {
+public class BreweryClientApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(BreweryApplication.class, args);
+		SpringApplication.run(BreweryClientApplication.class, args);
 	}
 
 }

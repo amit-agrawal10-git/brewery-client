@@ -1,10 +1,10 @@
-package spring.micro.brewery;
+package spring.micro.breweryclient;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class BreweryApplicationTests {
+class BreweryClientApplicationTests {
 
 	@Test
 	void contextLoads() {

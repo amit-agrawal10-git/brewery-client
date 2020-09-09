@@ -1,2 +1,2 @@
-#Beer Service
-Spring boot micro service
+#Beer Client
+Spring boot client micro service
